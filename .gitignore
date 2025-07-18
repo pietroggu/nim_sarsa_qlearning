@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code settings (optional)
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+
+# Matplotlib plots or figures
+*.png
+*.pdf
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Ignore model weights or serialized objects (optional)
+*.pkl
+*.joblib
+
+# Ignore saved games or user data (optional)
+*.sav
+*.dat
